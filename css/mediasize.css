@@ -1,0 +1,741 @@
+@media screen and (min-width:1400px){}
+@media screen and (min-width:1090px) and (max-width:1399px){
+  div#aboutwrap>figure>figcaption{
+    width: 500px;
+  }
+  div#skilllist>ul>li{
+    height: auto;
+  }
+  div#portshow>figure>p{
+    width: 250px;
+  }
+  div#portshow>figure>p>img{
+    max-width: 250px;
+    max-height: 250px;
+    width: auto;
+    height: auto;
+  }
+
+  div#portshow>figure>figcaption{
+    width: 500px;
+  }
+  div#myinform>dl>dt{
+    width: 30%;
+  }
+  div#myinform>dl>dd{
+  }
+  div#myinform{
+    padding-left: 0;
+  }
+}
+@media screen and (min-width:980px) and (max-width:1089px){
+
+  article>div{
+    padding: 50px 0;
+  }
+
+  div#aboutwrap>figure>p{
+    width: 250px;
+    height: 250px;
+  }
+  div#aboutwrap>figure>figcaption{
+    width: 400px;
+  }
+  div#skilllist>ul>li{
+    height: 100px;
+  }
+
+  div#skillhover{
+    left: -10px; bottom: -80px;
+  }
+
+  div#portshow>figure>p{
+    width: 250px;
+  }
+  div#portshow>figure>p>img{
+    max-width: 250px;
+    max-height: 250px;
+    width: auto;
+    height: auto;
+  }
+
+  div#portshow>figure>figcaption{
+    width: 400px;
+  }
+
+  div#myinform{
+    padding-left: 0;
+    width: 48%;
+    margin: 0 5px;
+  }
+
+  form#format{
+    padding: 20px;
+    width: 48%;
+    margin: 0 5px;
+  }
+  div#myinform>dl>dt{
+    width: 30%;
+  }
+  div#myinform>dl>dd{
+  }
+  form#format>fieldset>label{
+    font-size: 20px;
+  }
+
+  div#portshow>figure>figcaption>dl>dt{
+    width: 40%;
+    font-size: 22px;
+  }
+
+}
+@media screen and (min-width:580px) and (max-width:979px){
+  div#wrap{
+    box-sizing: content-box;
+    width: 100%;
+    padding-left: 0;
+  }
+
+  header{
+    box-sizing: border-box;
+    width: 100%;
+    /* width: 350px; */
+    height: auto;
+    text-align: center;
+    padding: 30px 0;
+    box-shadow: -1px 3px 3px rgba(0, 0, 0, 0.5);
+    z-index: 15;
+    border-bottom: none;
+  }
+
+  header>h1{
+    box-sizing: border-box;
+    vertical-align: middle;
+    margin-bottom: 0px;
+    height: 40px;
+    padding: 4px 0;
+  }
+  header>h1>a>img{
+   display: inline-block;
+   width: 28px;
+   height: 28px;
+   line-height: 32px;
+   margin: 0 5px;
+  }
+
+  header>h1>a{}
+
+  header>h1>a>span{
+    padding-top: 0px;
+    display: inline-block;
+    font-size: 28px;
+    line-height: 32px;
+    margin: 0 5px;
+   }
+
+   p.mainmenu{
+    display: block;
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    right: 15px; top: 30px;
+  }
+
+  p.mainmenu>span{
+    font-size: 40px;
+  }
+
+  div#headwrap{
+    display: none;
+    position: fixed;
+    right: 0; top: 0;
+    width: 300px;
+    height: 100vh;
+    padding-top: 150px;
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+
+  div#headwrap>nav>ul>li{
+    margin: 20px 0;
+  }
+  div#headwrap>nav>ul>li>a{
+    font-size: 28px;
+    line-height: 1.5em;
+    padding: 5px 10px;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+  }
+  p.mainclose{
+    width: 30px;
+    height: 30px;
+    display: block;
+    position: absolute;
+    right: 10px; top: 10px;
+    z-index: 35;
+  }
+  p.mainclose>span{
+    font-size: 30px;
+    color: #fff;
+  }
+
+  
+  footer{
+    width: 100%;
+    height:  auto;
+    position: static;
+    box-shadow: none;
+    padding: 30px 0;
+    box-sizing: border-box;
+  }
+
+  ul#sns{
+    margin-bottom: 20px;
+  }
+
+
+
+  article#slogun{
+    padding-top: 100px;
+  }
+  ul#gall>li{
+    height: calc(100vh - 100px);
+  }
+
+  div#aboutwrap>figure{
+    display: block;
+    justify-content: center;
+  }
+  div#aboutwrap>figure>p{
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+
+  div#aboutwrap>figure>figcaption{
+    width: 96.55172413793103%;
+    margin: auto;
+  }
+
+  div#inform>dl{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  div#inform>dl>dt{
+    width: 45%;
+    font-size: 22px;
+    margin-bottom: 0px;
+    text-align: center;
+  }
+
+  div#inform>dl>dd{
+    font-size: 22px;
+    text-align: center;
+  }
+
+  div#skilllist>ul{
+    justify-content: center;
+  }
+
+  div#skilllist>ul>li{
+    box-sizing: border-box;
+    padding: 10px;
+    width: 17%;
+    margin: 5px;
+    height: auto;
+    position: relative;
+  }
+
+  div#skillhover{
+    left: -10px; bottom: -80px;
+  }
+  
+
+
+  div#portshow>figure>p{
+    width: 250px;
+  }
+
+  div#portshow>figure>p>img{
+    max-width: 250px;
+    max-height: 250px;
+    width: auto;
+    height: auto;
+  }
+
+  div#portshow>figure>figcaption{
+    width: 300px;
+    margin: 0 10px;
+  }
+
+  div#portshow>figure>figcaption>h3{
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+
+  div#portshow>figure>figcaption>dl{
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  div#portshow>figure>figcaption>dl>dt{
+    width: 100%;
+    font-size: 20px;
+  }
+  div#portshow>figure>figcaption>dl>dt>span{
+    display: none;
+  }
+
+  div#portshow>figure>figcaption>dl>dd{
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+  }
+  p.modalbtn{
+    padding-top: 20px;
+  }
+  
+  div#portmodal{
+    /* display: block; */
+    overflow-y: scroll;
+  }
+
+  div#modalbox{
+    width: 91.83673469387755%;
+    margin-left: -45.91836734693878%;
+  }
+
+  div#mwrap{
+    display: block;
+  }
+
+  div#mwrap>p{
+    width: 300px;
+    margin: 0 auto 20px;
+  }
+  div#mwrap>p>img{
+    max-width: 300px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+  }
+  div#mdtail{
+    width: 95%;
+    margin: 0 auto;
+  }
+  div#mdtail>dl{
+  }
+
+  div#mdtail>dl>dt{
+    box-sizing: border-box;
+    width: 50%;
+    padding: 0px;
+    margin-bottom: 0px;
+    padding-left: 80px;
+
+  }
+
+  div#mdtail>dl>dd{
+    width: 50%;
+  }
+  div#desc{
+    padding: 0px;
+  }
+
+  div#desc>dl>dd{
+    padding: 0 10px;
+    word-break: break-all;
+   }
+
+   div#contactin{
+    display: block;
+  }
+
+  div#myinform{
+    box-sizing: border-box;
+    width: 97%;
+    margin: 0 auto 20px;
+    padding-left: 0;
+  }
+
+  div#myinform>dl>dt{
+    width: 50%;
+    text-align: center;
+  }
+
+  form#format{
+    width: 97%;
+    margin: 0 auto;
+    padding: 40px;
+  }
+
+  form#format>fieldset{
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  form#format>fieldset>label{
+    display: block;
+    width: 100%;
+    margin-bottom: 5px;
+  }
+  form#format>fieldset>input{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+    height: 35px;
+  }
+  form#format>fieldset>textarea{
+    width: 99%;
+  }
+
+  ul#lang{
+    right: 80%; top: 35px;
+    z-index: 30;
+  }
+
+}
+@media screen and (min-width:5px) and (max-width:579px){
+  article>div{
+    padding: 50px 0;
+  }
+
+  div#wrap{
+    box-sizing: content-box;
+    width: 100%;
+    padding-left: 0;
+  }
+
+  header{
+    box-sizing: border-box;
+    width: 100%;
+    /* width: 350px; */
+    height: auto;
+    text-align: center;
+    padding: 30px 0;
+    box-shadow: -1px 3px 3px rgba(0, 0, 0, 0.5);
+    z-index: 15;
+    border-bottom: none;
+  }
+
+  header>h1{
+    box-sizing: border-box;
+    vertical-align: middle;
+    margin-bottom: 0px;
+    height: 40px;
+    padding: 4px 0;
+  }
+  header>h1>a>img{
+   display: inline-block;
+   width: 28px;
+   height: 28px;
+   line-height: 32px;
+   margin: 0 5px;
+  }
+
+  header>h1>a{}
+
+  header>h1>a>span{
+    padding-top: 0px;
+    display: inline-block;
+    font-size: 28px;
+    line-height: 32px;
+    margin: 0 5px;
+   }
+
+   p.mainmenu{
+    display: block;
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    right: 15px; top: 30px;
+  }
+  p.mainmenu>span{
+    font-size: 40px;
+  }
+
+  div#headwrap{
+    display: none;
+    position: fixed;
+    right: 0; top: 0;
+    width: 100%;
+    height: 100vh;
+    padding-top: 100px;
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+
+  div#headwrap>nav>ul>li{
+    margin: 20px 0;
+  }
+  div#headwrap>nav>ul>li>a{
+    font-size: 28px;
+    line-height: 1.5em;
+    padding: 10px 30px;
+    border-bottom: none;
+    color: #fff;
+  }
+
+  p.mainclose{
+    width: 40px;
+    height: 40px;
+    display: block;
+    position: absolute;
+    right: 30px; top: 30px;
+    z-index: 35;
+    color: #fff;
+  }
+  p.mainclose>span{
+    font-size: 40px;
+  }
+
+  
+  footer{
+    width: 100%;
+    height:  auto;
+    position: static;
+    box-shadow: none;
+    padding: 30px 0;
+    box-sizing: border-box;
+  }
+
+  ul#sns{
+    margin-bottom: 20px;
+  }
+
+
+
+  article#slogun{
+    padding-top: 100px;
+  }
+  ul#gall>li{
+    height: calc(100vh - 100px);
+  }
+  ul#gall>li>p{
+    width: 100%;
+    height: 400px;
+    left: 0; margin-left: 0;
+    margin-top: -200px;
+    padding : 0 60px;
+    padding-top: 170px;
+    font-size: 28px;
+  }
+
+  p.next{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    right: 20px; top: 50%;
+    margin-top: -20px;
+  }
+  p.prev{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 0px; top: 50%;
+    margin-top: -20px;
+  }
+
+
+  div#aboutwrap>figure{
+    display: block;
+    justify-content: center;
+  }
+  div#aboutwrap>figure>p{
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+
+  div#aboutwrap>figure>figcaption{
+    width: 96.55172413793103%;
+    margin: auto;
+  }
+
+  div#inform{
+    display: block;
+  }
+
+  div#inform>dl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    text-align: center;
+  }
+
+  div#inform>dl>dt{
+    width: 43%;
+    font-size: 22px;
+    margin: 0px;
+    margin-bottom: 0px;
+  }
+
+  div#inform>dl>dd{
+    width: 43%;
+    font-size: 22px;
+  }
+
+  div#skilllist>ul{
+    justify-content: center;
+  
+  }
+
+  div#skilllist>ul>li{
+    width: 28%;
+    height: auto;
+  }
+
+   div#skillhover{
+    width: 80%;
+  }
+
+  div#portshow>figure{
+    display: block;
+  }
+
+  div#portshow>figure>p{
+    width: 300px;
+    margin: 0 auto 5px;
+  }
+
+  div#portshow>figure>figcaption{
+    width: 300px;
+    margin: 0 auto;
+  }
+
+  div#portshow>figure>figcaption>h3{
+    text-align: right;
+    font-size: 28px;
+    margin-bottom: 15px;
+  }
+  div#portshow>figure>figcaption>dl{
+    display: none;
+    margin-bottom: 10px;
+  }
+  p.modalbtn{
+    text-align: right;
+    margin: 0;
+    padding-top: 0px;
+  }
+
+  p.modalbtn>a{
+    font-size: 22px;
+  }
+
+  
+  div#portmodal{
+    /* display: block; */
+ 
+  }
+
+  div#modalbox{
+    width: 100%;
+    height: 100vh;
+    left: 0; top: 0;
+    margin-left: 0;
+    overflow-y: scroll;
+  }
+  div#modalbox>h2{
+    margin-bottom: 20px;
+  }
+
+  div#mwrap{
+    display: block;
+  }
+
+
+  div#mwrap>p{
+    width: 300px;
+    margin: 0 auto 10px;
+  }
+  div#mwrap>p>img{
+    max-width: 300px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+  }
+  div#mdtail{
+    width: 300px;
+    margin: 0 auto;
+  }
+  div#mdtail>dl{
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  div#mdtail>dl>dt{
+    width: 100%;
+    padding: 0px;
+    margin-bottom: 5px;
+  }
+
+  div#mdtail>dl>dd{
+    width: 100%;
+    text-align: center;
+  }
+  div#mdesc{
+    padding: 0px;
+  }
+
+  div#mdesc>dl>dd{
+    padding: 0 10px;
+    word-break: break-all;
+   }
+   p.modalclose{
+    right: 20px; top: 20px;
+  }
+
+
+
+
+   div#contactin{
+    display: block;
+  }
+
+  div#myinform{
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 auto 20px;
+    padding-left: 0;
+  }
+
+  div#myinform>dl{
+    display: none;
+  }
+
+
+
+  form#format{
+    width: 100%;
+    margin: 0 auto;
+    padding: 40px;
+  }
+
+  form#format>fieldset{
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  form#format>fieldset>label{
+    display: block;
+    width: 100%;
+    margin-bottom: 5px;
+  }
+  form#format>fieldset>input{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+    height: 35px;
+  }
+  form#format>fieldset>textarea{
+    width: 99%;
+  }
+
+  ul#lang{
+    right: 80%; top: 35px;
+    z-index: 30;
+  }
+
+}

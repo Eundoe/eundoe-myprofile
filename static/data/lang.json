@@ -1,0 +1,67 @@
+
+
+{
+  "ko" : {
+    "slogun" : ["배움에는 끝이없다.", "시작하기전에 생각하라", "저질렀다면 끝까지 해라", "어제의 나보다 더 나아진 내가 되라"],
+    "desc" : [
+      "Spring Festival을 상정하고 만든 Addidas사이트 입니다. parcel-bundler로 빌드하였으며 기능구현을 위해서 javascript와 jquery를 사용 했습니다.",
+      "가죽공방 Hevitz를 기반으로 만들어 놓은사이트 입니다 기존 사이트에는 존재하지 않던 OrderMade를 중점적으로 넣어서 가죽공예의 특별함을 중요시하는 사람들을 위한 오더메이드 페이지를 작성하게 되었습니다.",
+      "관광상품 예약하는 사이트로 쇼핑몰처럼 원하는 관광상품을 담아서 만들수 없을까 생각하여 만들게된 사이트입니다. 간단하고 심플하게 만들었고 검색기능을 탑재하여 관리자도 클라이언트도 찾기 쉽게 했습니다."
+    ],
+    "privd" : {
+      "name" : "조재호",
+      "birth" : "1992.09.09",
+      "major" : "경제학",
+      "habit" : "가죽공예",
+      "creed" : "오늘도 사과나무를 심는다."
+    },
+    "privm" : {
+      "name" : "이름",
+      "birth" : "생일",
+      "major" : "전공",
+      "habit" : "취미"
+    }
+  },
+  "ja" : {
+    "slogun" : ["学びに終わりはない。", "初めは考えから。", "踏み出した仕事は最後まで尽くす。", "昨日の自分より発展した自分になれ。"],
+    "desc" : [
+      "Spring Festivalを想定して作ったAddidasのサイトです。parcel-bundlerでBuildし、機能の具現のためにJavascriptとJqueryを使用しました。",
+      "手作り皮工房のHevitzをベースで作成したサイトです。既存になかった機能の具現のた目に特別な人へのプレゼント目的のOrderMadeのページを追加しました。",
+      "観光商品を予約するサイトとして買い物するように観光商品をカートに入れることができるかということで制作したサイトです。簡単でシンプルにできるように作り検索機能を入れることで管理者側もクライアントも商品を探しやすくしました。"
+    ],
+    "privd" : {
+      "name" : "趙ジェホ",
+      "birth" : "平成4年9月9日",
+      "major" : "経済学",
+      "habit" : "皮工芸",
+      "creed" : "今日のリンゴの木を植える。"
+    },
+    "privm" : {
+      "name" : "名前",
+      "birth" : "誕生日",
+      "major" : "専攻",
+      "habit" : "趣味"
+    }
+  },
+  "en" : {
+    "slogun" : ["Learning never ends.", "Start with an idea.", "Do my best to finish the work<br/> I set out.", "Be a better version of yourself<br/> than you were yesterday."],
+    "desc" : [
+      "Make site for Spring Festival Addidas's Event.Build up by parcel-bundler, make function by javascript and jquery.",
+      "Make site for Hand-made leather craft workshop called Hevitz on base. I made new page for order-made for one people who special for someone.",
+      "It is a website created to make it possible to put tourism products in the cart as if you were shopping as a site to reserve tourism products. By making it easy and simple to use and adding a search function, both administrators and clients can easily find products."
+    ],
+    "privd" : {
+      "name" : "Jaeho Cho",
+      "birth" : "1992.09.09",
+      "major" : "Economy",
+      "habit" : "Leather Craft",
+      "creed" : "Plant an apple tree today."
+    },
+    "privm" : {
+      "name" : "Name",
+      "birth" : "Birth",
+      "major" : "Major",
+      "habit" : "Habit"
+    }
+  }
+}

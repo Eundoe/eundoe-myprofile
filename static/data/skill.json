@@ -1,0 +1,75 @@
+[
+{
+  "id" : 0, 
+  "name" : "HTML5",
+  "master" : 95,
+  "path" : "./image/icons/html5.png"
+},
+{
+  "id" : 1, 
+  "name" : "CSS3",
+  "master" : 95,
+  "path" : "./image/icons/css3.png"
+},
+{
+  "id" : 2, 
+  "name" : "Javascript",
+  "master" : 75,
+  "path" : "./image/icons/javascript.png"
+},
+{
+  "id" : 3, 
+  "name" : "jQuery",
+  "master" : 80,
+  "path" : "./image/icons/jquery.png"
+},
+{
+  "id" : 4, 
+  "name" : "Vue",
+  "master" : 40,
+  "path" : "./image/icons/vue.png"
+},
+{
+  "id" : 5, 
+  "name" : "React",
+  "master" : 78,
+  "path" : "./image/icons/react.png"
+},
+{
+  "id" : 6, 
+  "name" : "NPM",
+  "master" : 69,
+  "path" : "./image/icons/npm.png"
+},
+{
+  "id" : 7, 
+  "name" : "Parcel-Bundler",
+  "master" : 88,
+  "path" : "./image/icons/parcel.png"
+},
+{
+  "id" : 8, 
+  "name" : "Webpack",
+  "master" : 60,
+  "path" : "./image/icons/webpack.png"
+},
+{
+  "id" : 9, 
+  "name" : "Firezilla",
+  "master" : 50,
+  "path" : "./image/icons/firezilla.png"
+},
+{
+  "id" : 10, 
+  "name" : "Netlify",
+  "master" : 50,
+  "path" : "./image/icons/netlify.png"
+},
+{
+  "id" : 11, 
+  "name" : "Git",
+  "master" : 60,
+  "path" : "./image/icons/git.png"
+}
+
+]

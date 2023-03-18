@@ -7,7 +7,8 @@
 > 배포방식은 AWS: S3의 간이 배포를 이용하였습니다.
 
 > [바로가기](http://eundoe-myintro.s3-website.ap-northeast-2.amazonaws.com/)
-
+> Bug report 2023-03-18 Ipad Trouble Fixed in 03-18
+> Pushing until 23-04-01(reason : S3:budget)
 ---
 ## 개발 도구 및 환경
 > 개발환경 : VScode, npm, Parcel-bundler

@@ -14,7 +14,6 @@ let language = 'ko'
 
 
 $(window).on('resize',function(e){
-  this.location.reload()
   if (e.target.outerWidth <= 979){
     $('div#headwrap').css('display','none')
   }

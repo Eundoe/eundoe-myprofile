@@ -4,9 +4,9 @@
   "ko" : {
     "slogun" : ["배움에는 끝이없다.", "시작하기전에 생각하라", "저질렀다면 끝까지 해라", "어제의 나보다 더 나아진 내가 되라"],
     "desc" : [
-      "Spring Festival을 상정하고 만든 Addidas사이트 입니다. parcel-bundler로 빌드하였으며 기능구현을 위해서 javascript와 jquery를 사용 했습니다.",
-      "가죽공방 Hevitz를 기반으로 만들어 놓은사이트 입니다 기존 사이트에는 존재하지 않던 OrderMade를 중점적으로 넣어서 가죽공예의 특별함을 중요시하는 사람들을 위한 오더메이드 페이지를 작성하게 되었습니다.",
-      "관광상품 예약하는 사이트로 쇼핑몰처럼 원하는 관광상품을 담아서 만들수 없을까 생각하여 만들게된 사이트입니다. 간단하고 심플하게 만들었고 검색기능을 탑재하여 관리자도 클라이언트도 찾기 쉽게 했습니다."
+      "A회사의 가상 프로젝트로서 작업한 개인 포트폴리오 사이트입니다. A회사로부터 봄 한정 이벤트를 진행해야 할 때 를 상정하여 작성했습니다. 계획서등 자세한 내용은 Github를 확인해주세요",
+      "클라이언트 B를 상정한 가상 프로젝트로서 작업한 개인 포트폴리오 사이트입니다 가죽공방에서 원하는 오더메이드등을 구현하기 위해서 React로 만들었습니다 자세한 내용은 Github를 확인해주세요",
+      "클라이언트 C를 상정한 가상 프로젝트로서 작업한 개인 포트폴리오 사이트입니다 심플한 관광상품 예약 시스템으로서 React로 작성했습니다 계획서등 자세한 내용은 Github를 확인해주세요"
     ],
     "privd" : {
       "name" : "조재호",
@@ -25,9 +25,9 @@
   "ja" : {
     "slogun" : ["学びに終わりはない。", "初めは考えから。", "踏み出した仕事は最後まで尽くす。", "昨日の自分より発展した自分になれ。"],
     "desc" : [
-      "Spring Festivalを想定して作ったAddidasのサイトです。parcel-bundlerでBuildし、機能の具現のためにJavascriptとJqueryを使用しました。",
-      "手作り皮工房のHevitzをベースで作成したサイトです。既存になかった機能の具現のた目に特別な人へのプレゼント目的のOrderMadeのページを追加しました。",
-      "観光商品を予約するサイトとして買い物するように観光商品をカートに入れることができるかということで制作したサイトです。簡単でシンプルにできるように作り検索機能を入れることで管理者側もクライアントも商品を探しやすくしました。"
+      "A会社のシミュレーションプロジェクトとして作業した個人用のポートフォリオサイトです。A会社から春限定のイベントの際に依頼があったことを想定して作り上げました。開発計画書など詳しい内容はGithubをご確認お願いします。",
+      "クライアントBさんからのシミュレーションプロジェクトとして作業した個人用のポートフォリオサイトです。皮工房から依頼をいただいたオーダーメイドの製品ページなどを具現しました。計画などの詳しい内容はGithubをご確認お願いします。",
+      "クライアントCサンからのシミュレーションプロジェクトとして作業した個人用のポートフォリオサイトです。シンプルな観光商品の予約システムとしてReactを用いて作り上げました。計画書などの詳しい内容はGithubをご確認お願いします。"
     ],
     "privd" : {
       "name" : "趙ジェホ",
@@ -46,9 +46,9 @@
   "en" : {
     "slogun" : ["Learning never ends.", "Start with an idea.", "Do my best to finish the work<br/> I set out.", "Be a better version of yourself<br/> than you were yesterday."],
     "desc" : [
-      "Make site for Spring Festival Addidas's Event.Build up by parcel-bundler, make function by javascript and jquery.",
-      "Make site for Hand-made leather craft workshop called Hevitz on base. I made new page for order-made for one people who special for someone.",
-      "It is a website created to make it possible to put tourism products in the cart as if you were shopping as a site to reserve tourism products. By making it easy and simple to use and adding a search function, both administrators and clients can easily find products."
+      "This is a personal portfolio site that I worked on as a simulation project for Company A. I made it on the assumption that there was a request from A company at the season of the spring festival event. Please check Github for details such as the development plan.",
+      "This is a personal portfolio site that I worked on as a simulation project from client B. I made custom-made product pages requested by leather workshops. Please check Github for details such as plans.",
+      "A personal portfolio site I worked on as a simulation project from client C. It was created using React as a simple reservation system for tour products. Please check Github for details such as the plan."
     ],
     "privd" : {
       "name" : "Jaeho Cho",

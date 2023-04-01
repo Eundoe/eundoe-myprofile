@@ -10,6 +10,8 @@
 ## 배포링크
 > 배포방식은 AWS: S3의 간이 배포를 이용하였습니다.
 
+> 2023-04-01 React버젼 배포에 따라 구버젼은 배포를 중단하게 되었습니다. 
+
 > [바로가기](http://eundoe-myintro.s3-website.ap-northeast-2.amazonaws.com/)
 ---
 ## 개발 도구 및 환경

@@ -12,7 +12,7 @@
 
 > 2023-04-01 React버젼 배포에 따라 구버젼은 배포를 중단하게 되었습니다. 
 
-> [바로가기](http://eundoe-myintro.s3-website.ap-northeast-2.amazonaws.com/)
+> [바로가기](http://eundoe-myintro.s3-website.ap-northeast-2.amazonaws.com)
 ---
 ## 개발 도구 및 환경
 > 개발환경 : VScode, npm, Parcel-bundler
